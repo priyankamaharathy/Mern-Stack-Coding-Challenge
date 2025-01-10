@@ -49,7 +49,7 @@ A full-stack MERN application for analyzing transaction data with filtering, sea
 - GET /api/bar-chart
 - GET /api/pie-chart
   - Query params: month
-Deploy:
+### Deploy:
 - Push to GitHub
 - Import to Vercel
 - Set environment variables
