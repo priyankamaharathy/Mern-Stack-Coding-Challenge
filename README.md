@@ -35,8 +35,18 @@ A full-stack MERN application for analyzing transaction data with filtering, sea
 - Express.js
 - MongoDB
 - Mongoose
+## 🔌 API Endpoints
 
-## 🚀 Live Demo
+### Transactions
+- GET /api/transactions
+  - Query params: month, search, page, perPage
 
-- Frontend: [https://transaction-analytics-dashboard.vercel.app](https://your-frontend-url)
-- Backend API: https://mern-stack-coding-challenge-roxiler.vercel.app/
+### Statistics
+- GET /api/statistics
+  - Query params: month
+
+### Charts
+- GET /api/bar-chart
+- GET /api/pie-chart
+  - Query params: month
+
