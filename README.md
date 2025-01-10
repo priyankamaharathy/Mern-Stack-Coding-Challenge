@@ -49,14 +49,15 @@ A full-stack MERN application for analyzing transaction data with filtering, sea
 - GET /api/bar-chart
 - GET /api/pie-chart
   - Query params: month
-### Deploy:
+## Deployment
 - Push to GitHub
 - Import to Vercel
 - Set environment variables
-- Deploy
-  For Backend
+- then Deploy
+
+  ## For Backend
 - `MONGODB_URI`: MongoDB connection string
-  For Frontend
+  ## For Frontend
 - `REACT_APP_API_URL`: Backend API URL
 ## 🛡️ Git Setup
 
