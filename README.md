@@ -55,10 +55,10 @@ A full-stack MERN application for analyzing transaction data with filtering, sea
 - Set environment variables
 - then Deploy
 
-  ## For Backend
+  ### For Backend
 - `MONGODB_URI`: MongoDB connection string
-  ## For Frontend
+  ### For Frontend
 - `REACT_APP_API_URL`: Backend API URL
 ## 🛡️ Git Setup
 
-1. **.gitignore**
+ **.gitignore** for  Security, Repository Size, Development Efficiency
