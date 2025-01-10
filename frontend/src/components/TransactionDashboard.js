@@ -256,7 +256,6 @@ const TransactionDashboard = () => {
             </Paper>
           </Grid>
 
-          {/* Statistics Cards */}
           <Grid item xs={12}>
             <Grid container spacing={3}>
               <Grid item xs={12} md={4}>
@@ -292,7 +291,6 @@ const TransactionDashboard = () => {
             </Grid>
           </Grid>
 
-          {/* Charts Section */}
           <Grid item xs={12} md={6}>
             <Paper sx={{ ...paperStyle, p: 3, minHeight: '400px' }}>
               <Typography variant="h6" sx={{ color: '#ffffff', mb: 2 }}>
@@ -333,7 +331,6 @@ const TransactionDashboard = () => {
             </Paper>
           </Grid>
 
-          {/* Table */}
           <Grid item xs={12}>
             <Paper sx={{ ...paperStyle, p: 3 }}>
               <TableContainer>
